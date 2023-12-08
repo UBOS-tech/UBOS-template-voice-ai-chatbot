@@ -1,0 +1,6 @@
+[submodule "ubos-template-voice-AI-chat-NR"]
+	path = ubos-template-voice-AI-chat-NR
+	url = https://github.com/UBOS-tech/ubos-template-voice-AI-chat-NR.git
+[submodule "ubos-template-voice-AI-chat-UI"]
+	path = ubos-template-voice-AI-chat-UI
+	url = https://github.com/UBOS-tech/ubos-template-voice-AI-chat-UI.git
